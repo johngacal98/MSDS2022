@@ -1,0 +1,30 @@
+movie_id,title,year,genre,director_id
+2,Ferris Bueller's Day Off,1986,Comedy,2
+3,Top Gun,1986,Action,3
+4,Aliens,1986,Action,4
+5,Flight of the Navigator,1986,Adventure,5
+6,Platoon,1986,Drama,6
+7,Labyrinth,1986,Adventure,7
+8,Blue Velvet,1986,Drama,8
+9,Pretty in Pink,1986,Comedy,9
+10,The Fly,1986,Drama,10
+11,Crocodile Dundee,1986,Adventure,11
+12,Highlander,1986,Action,12
+13,Lucas,1986,Comedy,13
+14,Big Trouble in Little China,1986,Action,14
+15,Manhunter,1986,Crime,15
+16,9? Weeks,1986,Drama,16
+17,Maximum Overdrive,1986,Action,17
+18,Little Shop of Horrors,1986,Comedy,18
+19,The Wraith,1986,Action,19
+20,Howard the Duck,1986,Action,20
+21,Critters,1986,Action,21
+22,Back to School,1986,Comedy,22
+23,The Texas Chainsaw Massacre 2,1986,Comedy,23
+24,Heartbreak Ridge,1986,Action,24
+25,Star Trek IV: The Voyage Home,1986,Adventure,25
+26,Short Circuit,1986,Comedy,26
+27,The Name of the Rose,1986,Crime,27
+28,Iron Eagle,1986,Action,28
+29,The Golden Child,1986,Action,29
+30,River's Edge,1986,Crime,30
